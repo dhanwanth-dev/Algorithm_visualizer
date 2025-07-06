@@ -1,4 +1,4 @@
-# Algorithm Visualization Tool (CONSOLE BASED)
+# Algorithm Visualization Tool (Console Based)
 
 A Python-based interactive tool for visualizing and understanding sorting and searching algorithms through ASCII animations.
 
